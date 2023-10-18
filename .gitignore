@@ -1,0 +1,55 @@
+# IDEs
+/.vscode/*
+/.idea/*
+
+# Build directories
+/build/*
+/cmake-build-debug/*
+
+# Compiled files
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.log
+
+# Package files
+*.jar
+*.zip
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node (if you're using it)
+node_modules/
+
+# Python (if you're using it)
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Others
+*.log
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Dependency directories (if you're using them)
+/vendor/
+/node_modules/
+
+
